@@ -1,0 +1,6 @@
+{
+  "name": "Runner Quiz",
+  "description": "An endless runner combined with an educational quiz system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
